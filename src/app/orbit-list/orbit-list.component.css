@@ -31,3 +31,15 @@ td {
 .warning {
     background: crimson;
 }
+
+.satellite-data tr:nth-child(odd) {
+    background: lightgray;
+}
+
+.satellite-data tr:nth-child(even) {
+    background: lightgreen;
+}
+
+#header-row {
+    background: darkslategray;
+}
